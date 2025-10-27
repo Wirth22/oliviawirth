@@ -1,10 +1,10 @@
 # Olivia Wirth
 
-Hi! I am a PhD candidate in Development Economics at the University of Passau. I do research in development and political economy that combines causal inference and randomized field experiments in East and West Africa.
+Hi! I am a PhD candidate in Development Economics at the University of Passau. I do research in development and political economy using causal inference and randomized field experiments in East and West Africa.
 In my dissertation, I explore the role of digital technologies in advancing development in sub-Saharan Africa.
 
 During Fall 2024, I was a visiting PhD student at The Fletcher School at Tufts University, invited by Jenny C. Aker.
-I hold an MSc in Economics from the Ludwig-Maximilian University (LMU) in Munich, and worked as a research assistant at the ifo Institute. 
+I hold an MSc in Economics from the Ludwig Maximilian University of Munich (LMU) and have worked as a research assistant at the ifo Institute.
 
 If you’re interested in my research or would like to connect, feel free to reach out — I’m always happy to exchange ideas!
 
