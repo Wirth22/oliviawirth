@@ -28,9 +28,9 @@ author:
   name             : "Olivia Wirth"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Passau, Germany"
   employer         : "Universität Passau"
-  uri              : # URL
+  linkedin         : "www.linkedin.com/in/olivia-wirth-58b601192"
   email            : "olivia.wirth@uni-passau.de" 
 
   # Academic websites
@@ -64,7 +64,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/olivia-wirth-58b601192"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
