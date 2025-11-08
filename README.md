@@ -21,8 +21,8 @@ With [Christina Petrik](https://www.wiwi.uni-passau.de/en/development-economics/
 
 
 ## Working Paper
-[Mobile Technologies and Firm Formalization: Evidence from Uganda](https://www.econstor.eu/bitstream/10419/283795/1/wp2023-099.pdf)
-With [Marina Dodlova](https://dodlova.com/), [Krisztina Kis-Katos](https://www.uni-goettingen.de/de/krisztina+kis-katos/545784.html), [Anna Kochanova](https://www.annakochanova.com/)
+[Mobile Technologies and Firm Formalization: Evidence from Uganda](https://www.econstor.eu/bitstream/10419/283795/1/wp2023-099.pdf) \\
+With [Marina Dodlova](https://dodlova.com/), [Krisztina Kis-Katos](https://www.uni-goettingen.de/de/krisztina+kis-katos/545784.html), [Anna Kochanova](https://www.annakochanova.com/) \\
 *World Institute for Development Economic Research (UNU-WIDER)*, (No. wp-2023-99), 2023
 
 ## Publications
