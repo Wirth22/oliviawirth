@@ -27,10 +27,8 @@ With Marina Dodlova, Krisztina Kis-Katos, and Anna Kochanova
 
 ## Publications
 **The ifo Education Survey 2014–2021: A New Dataset on Public Preferences for Education Policy in Germany**  
-Vera Freundl, Elisabeth Grewenig, Franziska Kugler, Philipp Lergetporer, Ruth Schüler, Katharina Wedel, Katharina Werner, Olivia Wirth, and Ludger Wößmann (2023). *Jahrbücher für Nationalökonomie und Statistik / Journal of Economics and Statistics*, 243(6), 699–710.  
-  [Journal page](https://ideas.repec.org/a/jns/jbstat/v243y2023i6p699-710n5.html) · [Working paper (PDF)](https://www.ifo.de/DocDL/wp-2022-378-freundl-etal-ifo-education-survey.pdf)
+Vera Freundl, Elisabeth Grewenig, Franziska Kugler, Philipp Lergetporer, Ruth Schüler, Katharina Wedel, Katharina Werner, Olivia Wirth, and Ludger Wößmann (2023). [*Jahrbücher für Nationalökonomie und Statistik / Journal of Economics and Statistics*, 243(6), 699–710.](https://ideas.repec.org/a/jns/jbstat/v243y2023i6p699-710n5.html). 
 
 **Bewerbungsunterstützung erhöht die Kita-Inanspruchnahme von Kindern aus bildungsferneren Familien**  
-  Henning Hermes, Philipp Lergetporer, Frauke Peter, Simon Wiederhold, Vera Freundl, and Olivia Wirth (2021). *ifo Schnelldienst*, 74(9), 41–45.  
-  [Article page](https://www.ifo.de/publikationen/2021/aufsatz-zeitschrift/bewerbungsunterstuetzung-erhoeht-die-kita-inanspruchnahme) · [PDF](https://www.ifo.de/DocDL/sd-2021-09-lergetporer-etal-bewerbungsunterstuetzung-kita_0.pdf)
+Henning Hermes, Philipp Lergetporer, Frauke Peter, Simon Wiederhold, Vera Freundl, and Olivia Wirth (2021). [*ifo Schnelldienst*, 74(9), 41–45.](https://www.ifo.de/DocDL/sd-2021-09-lergetporer-etal-bewerbungsunterstuetzung-kita_0.pdf)
 
