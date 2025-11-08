@@ -21,16 +21,18 @@ With [Christina Petrik](https://www.wiwi.uni-passau.de/en/development-economics/
 
 
 ## Working Paper
-[Mobile Technologies and Firm Formalization: Evidence from Uganda](https://www.econstor.eu/bitstream/10419/283795/1/wp2023-099.pdf) \\
-With [Marina Dodlova](https://dodlova.com/), [Krisztina Kis-Katos](https://www.uni-goettingen.de/de/krisztina+kis-katos/545784.html), [Anna Kochanova](https://www.annakochanova.com/) \\
+[Mobile Technologies and Firm Formalization: Evidence from Uganda](https://www.econstor.eu/bitstream/10419/283795/1/wp2023-099.pdf) 
+
+With [Marina Dodlova](https://dodlova.com/), [Krisztina Kis-Katos](https://www.uni-goettingen.de/de/krisztina+kis-katos/545784.html), [Anna Kochanova](https://www.annakochanova.com/) 
+
 *World Institute for Development Economic Research (UNU-WIDER)*, (No. wp-2023-99), 2023
 
 ## Publications
-[The ifo Education Survey 2014–2021: A New Dataset on Public Preferences for Education Policy in Germany](https://ideas.repec.org/a/jns/jbstat/v243y2023i6p699-710n5.html)
+**[The ifo Education Survey 2014–2021: A New Dataset on Public Preferences for Education Policy in Germany](https://ideas.repec.org/a/jns/jbstat/v243y2023i6p699-710n5.html)**
 With Vera Freundl, Elisabeth Grewenig, Franziska Kugler, Philipp Lergetporer, Ruth Schüler, Katharina Wedel, Katharina Werner, and Ludger Wößmann 
 *Jahrbücher für Nationalökonomie und Statistik / Journal of Economics and Statistics*, 243(6), 699–710, 2023
 
-[Bewerbungsunterstützung erhöht die Kita-Inanspruchnahme von Kindern aus bildungsferneren Familien](https://www.ifo.de/DocDL/sd-2021-09-lergetporer-etal-bewerbungsunterstuetzung-kita_0.pdf)
+**[Bewerbungsunterstützung erhöht die Kita-Inanspruchnahme von Kindern aus bildungsferneren Familien](https://www.ifo.de/DocDL/sd-2021-09-lergetporer-etal-bewerbungsunterstuetzung-kita_0.pdf)**
 With Henning Hermes, Philipp Lergetporer, Frauke Peter, Simon Wiederhold, and Vera Freundl
 *ifo Schnelldienst*, 74(9), 41–45, 2021
 
